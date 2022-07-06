@@ -30,10 +30,10 @@ void test2() {
 	string c = "hello";
 	printf("%s\n",c);
 	char* d = b;
-	printf("%s\n", "hello");
+	printf("%s\n", d);
 	char e = 'f';
 	char* f = &e;
-	printf("%s\n", f);
+	printf("%c\n", f);
 }
 
 
