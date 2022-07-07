@@ -1,6 +1,7 @@
 #include "嵌入式指针内存池.h"
 #include "链表内存池.h"
 #include "allocator.h"
+#include "myAuto_ptr.h"
 using namespace std;
 //using namespace std;
 
@@ -38,6 +39,6 @@ void test2() {
 
 
 int main() {
-
+	printf("%s", "hello world");
 	return 0;
 }

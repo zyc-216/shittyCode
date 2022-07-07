@@ -29,5 +29,11 @@
     <ClInclude Include="allocator.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="myAuto_ptr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myUnique_ptr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
