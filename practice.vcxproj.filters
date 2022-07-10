@@ -35,5 +35,8 @@
     <ClInclude Include="myUnique_ptr.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="vector伪代码.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -38,7 +38,7 @@ void test2() {
 }
 
 
+
 int main() {
-	printf("%s", "hello world");
 	return 0;
 }
